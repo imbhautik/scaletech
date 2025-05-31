@@ -35,7 +35,7 @@ A Laravel microservice that listens on a single webhook endpoint, processes inco
 1. Clone repository:
 
     ```bash
-    git clone https://github.com/your-username/webhook-handler.git
+    git clone https://github.com/imbhautik/scaletech.git
     cd webhook-handler
     ```
 
