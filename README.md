@@ -75,6 +75,12 @@ A Laravel microservice that listens on a single webhook endpoint, processes inco
     php artisan serve
     ```
 
+7. Test the Webhook (You will find data inserted in github_commits table):
+
+    ```bash
+    php artisan test
+    ```
+
 ---
 
 ## 📬 Webhook Endpoint
